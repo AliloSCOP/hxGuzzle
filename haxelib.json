@@ -1,0 +1,11 @@
+{
+  "name": "hxGuzzle",
+  "url": "https://github.com/CagetteNet/hxGuzzle",
+  "license": "GPL",
+  "classPath": "src",
+  "tags":[],
+  "description": "Haxe externs for Guzzle (PHP HTTP client)",
+  "version": "1.0.0",
+  "releasenote": "Initial release",
+  "contributors":["bablukid"]
+}
